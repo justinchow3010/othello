@@ -1,5 +1,3 @@
-// SID 1155125328 email 1155125328@link.cuhk.edu.hk name chow him chak
-//
 
 #include <iostream>
 #include <iomanip>  
