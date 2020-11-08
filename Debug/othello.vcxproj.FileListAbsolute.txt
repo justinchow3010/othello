@@ -1,0 +1,2 @@
+C:\Users\Chow\Desktop\CUHK\YEAR 3\C++\othello\othello\Debug\othello.exe
+C:\Users\Chow\Desktop\CUHK\YEAR 3\C++\othello\othello\Debug\othello.pdb
